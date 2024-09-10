@@ -7,8 +7,8 @@ tools collect
 原文链接：https://mp.weixin.qq.com/s/xvgzmtXfyanpWLlw7uQOzA   
 
 ## 2. 
-用途：todesk最新版设备代码、连接密码读取
-版本：todesk官网最新版：4.7.4.8
+用途：todesk最新版设备代码、连接密码读取   
+版本：todesk官网最新版：4.7.4.8   
 使用：   
 tasklist /svc   
 procdump64.exe -accepteula -ma 11652(实际的pid)   
