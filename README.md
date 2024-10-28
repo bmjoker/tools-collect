@@ -29,3 +29,11 @@ https://evi1cg.me/archives/Exchange_Hack.html
 工具地址：http://iscute.cn/chfs    
 windows使用命令：chfs.exe --port=8081 -path C:\\    
 
+## 5. sundeskQ 向日葵、todesk临时密码，安全密码读取工具
+用途：向日葵、todesk临时密码，安全密码读取工具    
+工具地址：https://github.com/milu001/sundeskQ
+![image](https://github.com/user-attachments/assets/7cfe4b22-e91b-4827-a4a6-4eceec66610e)    
+![image](https://github.com/user-attachments/assets/c0c23f85-95b5-40e6-83a2-e6c1675ef726)    
+
+
+
