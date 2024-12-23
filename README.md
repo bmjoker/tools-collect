@@ -35,5 +35,9 @@ windows使用命令：chfs.exe --port=8081 -path C:\\
 ![image](https://github.com/user-attachments/assets/7cfe4b22-e91b-4827-a4a6-4eceec66610e)    
 ![image](https://github.com/user-attachments/assets/c0c23f85-95b5-40e6-83a2-e6c1675ef726)    
 
+## 6. ReuseSocks端口复用
+工具源地址及使用：https://github.com/p1d3er/ReuseSocks   
+
+
 
 
